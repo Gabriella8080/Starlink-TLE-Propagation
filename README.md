@@ -6,5 +6,5 @@ An example of a Starlink satellite trajectory is shown below for NORAD ID 45184,
 <br>
 <br>
 <div align="center">
-  <img src="single-tle-example.png" width="600">
+  <img src="single-tle-example.png" width="400">
 </div>
